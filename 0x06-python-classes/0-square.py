@@ -2,5 +2,5 @@
 
 """Write an empty class"""
 
-class Square:
+class Square :
     pass
