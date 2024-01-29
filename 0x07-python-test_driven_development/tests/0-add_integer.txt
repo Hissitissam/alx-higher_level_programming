@@ -2,10 +2,8 @@
 How to Use 0-add_integer.py
 ===========================
 
-It defines an integer addition function ``add_integer(a, b=98)``.
+It defines an integer addition function ``add_integer(a, b=98)``
 
-Usage
-=====
 ```python
 def add_integer(...)``` computes the sum of its two input arguments. When dealing with numbers, this result is identical to employing the ``+`` operator.
 

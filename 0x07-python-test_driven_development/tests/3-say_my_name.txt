@@ -2,10 +2,7 @@
 How to Use 3-say_my_name.py
 ===========================
 
-It  defines a function ``say_my_name(first_name, last_name="")``.
-
-Usage
-=====
+It  defines a function ``say_my_name(first_name, last_name="")``
 
 ``say_my_name(...)`` prints "My name is <first_name> <last_name>".
 
