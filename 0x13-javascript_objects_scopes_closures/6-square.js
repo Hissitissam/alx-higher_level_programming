@@ -13,7 +13,7 @@ class Square extends SquareP {
       }
       console.log(s);
     }
- }
+  }
 }
 
 module.exports = Square;
