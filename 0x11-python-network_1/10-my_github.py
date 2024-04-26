@@ -10,7 +10,7 @@ if __name__ == '__main__':
     password = argv[2]
 
     URL = "https://api.github.com/user"
-    response = get(URL, auth=(username, password))
+    response = get(URL, auth=(Hissitissam, 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))
     json = response.json()
 
     print(json.get('id'))
